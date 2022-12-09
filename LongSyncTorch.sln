@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongSyncTorch", "LongSyncTorch.csproj", "{976E6E10-8FDC-4368-9524-0C271B71B607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976E6E10-8FDC-4368-9524-0C271B71B607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976E6E10-8FDC-4368-9524-0C271B71B607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976E6E10-8FDC-4368-9524-0C271B71B607}.Debug|x64.ActiveCfg = Debug|x64
+		{976E6E10-8FDC-4368-9524-0C271B71B607}.Debug|x64.Build.0 = Debug|x64
+		{976E6E10-8FDC-4368-9524-0C271B71B607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976E6E10-8FDC-4368-9524-0C271B71B607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976E6E10-8FDC-4368-9524-0C271B71B607}.Release|x64.ActiveCfg = Release|x64
+		{976E6E10-8FDC-4368-9524-0C271B71B607}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B20FC35-7644-428D-9FAC-FD29D5941D8B}
+	EndGlobalSection
+EndGlobal
